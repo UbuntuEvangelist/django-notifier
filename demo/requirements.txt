@@ -10,5 +10,5 @@ ipython==0.13.2
 django-extensions==1.2.1
 
 # Docs
-Sphinx==1.2b1
+Sphinx==3.0.4
 docutils==0.10
